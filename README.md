@@ -14,7 +14,7 @@
 ## 📫 Get in touch
 <p align="left">
 <a href="https://t.me/senpai_xm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="senpai_xm1" height="30" width="40" /></a>
-<a href="https://instagram.com/_senpaixm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sakilmondal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/senpaixm1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sakilmondal" height="30" width="40" /></a>
 <a href="https://twitter.com/vishall_xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sakilmondal" height="30" width="40" /></a>
 
 </p>
